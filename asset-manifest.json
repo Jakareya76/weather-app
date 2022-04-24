@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/jakareya76.github.io/weather-app/static/css/main.4050d3d9.css",
-    "main.js": "/jakareya76.github.io/weather-app/static/js/main.d3b98005.js",
-    "index.html": "/jakareya76.github.io/weather-app/index.html",
-    "main.4050d3d9.css.map": "/jakareya76.github.io/weather-app/static/css/main.4050d3d9.css.map",
-    "main.d3b98005.js.map": "/jakareya76.github.io/weather-app/static/js/main.d3b98005.js.map"
+    "main.css": "/weather-app/static/css/main.4050d3d9.css",
+    "main.js": "/weather-app/static/js/main.d3b98005.js",
+    "index.html": "/weather-app/index.html",
+    "main.4050d3d9.css.map": "/weather-app/static/css/main.4050d3d9.css.map",
+    "main.d3b98005.js.map": "/weather-app/static/js/main.d3b98005.js.map"
   },
   "entrypoints": [
     "static/css/main.4050d3d9.css",
